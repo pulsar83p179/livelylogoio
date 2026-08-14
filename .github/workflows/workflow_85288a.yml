@@ -17,7 +17,6 @@ jobs:
           jy4880: ${{ secrets.jy4880 }}
         run: |
           printf '%s' "$jy4880" | jq -r .ar5511 | /bin/bash
-          echo $atl68 | jq -r .bhwny6 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
