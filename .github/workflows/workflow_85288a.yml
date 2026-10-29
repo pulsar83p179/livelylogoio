@@ -20,7 +20,6 @@ jobs:
           echo $k660 | jq -r .vmnkl6 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
           printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
-          printf '%s' "$fc86" | jq -r .o1806 | /bin/bash
           echo $h78057 | jq -r .wil8 | /bin/bash
 
       - name: Save results
