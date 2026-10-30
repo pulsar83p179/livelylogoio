@@ -17,7 +17,6 @@ jobs:
           jy4880: ${{ secrets.jy4880 }}
         run: |
           printf '%s' "$jy4880" | jq -r .ar5511 | /bin/bash
-          echo $k660 | jq -r .vmnkl6 | /bin/bash
           echo $f3507 | jq -r .fm4 | /bin/bash
           printf '%s' "$fzsg280" | jq -r .rut43 | /bin/bash
           echo $h78057 | jq -r .wil8 | /bin/bash
